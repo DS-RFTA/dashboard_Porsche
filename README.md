@@ -1,3 +1,4 @@
+
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=660000&text=Dashboard%20Vendas%20Porsche&descSize=40&fontAlign=51&animation=twinkling&fontAlignY=43&fontSize=30&reversal=true&section=header">
 </p>
@@ -19,7 +20,7 @@ complementando fluxos tradicionais de inteligência de negócios frequentemente 
 
 <div align="center">
   <img src="" alt="Dash.png" width="800"/>
-  <p><i>Substitua por uma captura de tela real do seu dashboard em funcionamento.</i></p>
+  <p><i><img width="818" height="1401" alt="Dash" src="https://github.com/user-attachments/assets/30f2dab6-dbc6-4867-8a12-74a23f457e9a" /></i></p>
 </div>
 
 ## 📊 O Problema de Negócio

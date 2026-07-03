@@ -19,9 +19,11 @@ complementando fluxos tradicionais de inteligência de negócios frequentemente 
 ## 📸 Preview
 
 <div align="center">
-  <img src="" alt="Dash.png" width="800"/>
-  <p><i><img width="818" height="1401" alt="Dash" src="https://github.com/user-attachments/assets/30f2dab6-dbc6-4867-8a12-74a23f457e9a" /></i></p>
+  <img src="https://ds-rfta.github.io/dashboard_Porsche/" alt="Demonstração do Dashboard Porsche" width="800"/>
+  <p><i>width="818" height="1401" alt="Dash" src="https://github.com/user-attachments/assets/30f2dab6-dbc6-4867-8a12-74a23f457e9a".</i></p>
 </div>
+
+
 
 ## 📊 O Problema de Negócio
 

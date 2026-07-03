@@ -1,14 +1,12 @@
 
-<p align="center">
+
  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=660000&text=Dashboard%20Vendas%20Porsche&descSize=40&fontAlign=51&animation=twinkling&fontAlignY=43&fontSize=30&reversal=true&section=header">
 </p>
 
 # 🏎️ Porsche Sales Intelligence Dashboard
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+
 
 > Um dashboard executivo interativo em *Single File Component* (arquivo único) para análise de performance comercial da Porsche. 
 
@@ -16,12 +14,12 @@ Este projeto consolida KPIs, gráficos dinâmicos e tabelas operacionais em uma 
 Ele foi projetado para ser uma alternativa web leve, rápida e sem dependências para o compartilhamento de painéis, 
 complementando fluxos tradicionais de inteligência de negócios frequentemente feitos em ferramentas como Power BI ou planilhas complexas de Excel.
 
-## 📸 Preview
+# Preview
 
-<div align="center">
-  <img src="https://ds-rfta.github.io/dashboard_Porsche/" alt="Demonstração do Dashboard Porsche" width="800"/>
-  <p><i>width="818" height="1401" alt="Dash" src="https://github.com/user-attachments/assets/30f2dab6-dbc6-4867-8a12-74a23f457e9a".</i></p>
-</div>
+
+
+<img src="https://github.com/user-attachments/assets/30f2dab6-dbc6-4867-8a12-74a23f457e9a" alt="Demonstração do Dashboard Porsche" width="400"/>
+  
 
 
 
@@ -52,4 +50,4 @@ Por ser construído inteiramente em Vanilla JS, HTML e CSS dentro de um único a
    ```bash
    git clone [https://ds-rfta.github.io/dashboard_Porsche/](https://ds-rfta.github.io/dashboard_Porsche/)
 
-!
+
